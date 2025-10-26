@@ -36,11 +36,11 @@ This repository showcases architecture case studies from my work in banking and 
 - [View Case Study](./case-studies/ml-platform.md) *(Coming soon)*
 
 ## Background
-7+ years in Risk & Finance at top-tier financial institutions (Berenberg, EY). Specialized in:
+7+ years in areas Risk/Process Innovation/Transactions Analytics at a top-tier financial institution and management consultancy (Berenberg, EY). Specialized in:
 - Data architecture & platform engineering
 - Risk management systems (market, credit, operational, liquidity)
 - Regulatory compliance (Basel III, MaRisk, CSRD, GDPR)
-- Cloud platforms (Azure, AWS)
+- Cloud platforms (Azure)
 - Real-time & batch data processing
 
 ## Contact
