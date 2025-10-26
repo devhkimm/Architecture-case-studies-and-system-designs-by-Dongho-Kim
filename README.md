@@ -1,5 +1,5 @@
 # Architecture Portfolio
-**Dongho Kim** | Data & ML Platform Architect | Financial Services
+**Dongho Kim** | Data Platform Architect | Financial Services
 
 ## About
 This repository showcases architecture case studies from my work in banking and financial services, focusing on data platforms, real-time systems, and regulatory compliance.
