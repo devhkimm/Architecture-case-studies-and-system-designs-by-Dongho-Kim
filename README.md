@@ -44,7 +44,7 @@ This repository showcases architecture case studies from my work in banking and 
 - Real-time & batch data processing
 
 ## Contact
-- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/devindonghokim/)
+- LinkedIn: [LinkedIn URL](https://www.linkedin.com/in/devindonghokim/)
 - Email: devhkimm@gmail.com
 
 ---
